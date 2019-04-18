@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#Advanced\4StreamsAndFilesExercises\4CopyBinaryFile\bin\Debug\netcoreapp2.1\4CopyBinaryFile.deps.json
+D:\MyFolder\C#Fundamentals\C#Advanced\4StreamsAndFilesExercises\4CopyBinaryFile\bin\Debug\netcoreapp2.1\4CopyBinaryFile.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#Advanced\4StreamsAndFilesExercises\4CopyBinaryFile\bin\Debug\netcoreapp2.1\4CopyBinaryFile.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#Advanced\4StreamsAndFilesExercises\4CopyBinaryFile\bin\Debug\netcoreapp2.1\4CopyBinaryFile.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\4StreamsAndFilesExercises\4CopyBinaryFile\bin\Debug\netcoreapp2.1\4CopyBinaryFile.pdb
+D:\MyFolder\C#Fundamentals\C#Advanced\4StreamsAndFilesExercises\4CopyBinaryFile\obj\Debug\netcoreapp2.1\4CopyBinaryFile.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\4StreamsAndFilesExercises\4CopyBinaryFile\obj\Debug\netcoreapp2.1\4CopyBinaryFile.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\4StreamsAndFilesExercises\4CopyBinaryFile\obj\Debug\netcoreapp2.1\4CopyBinaryFile.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\4StreamsAndFilesExercises\4CopyBinaryFile\obj\Debug\netcoreapp2.1\4CopyBinaryFile.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#Advanced\4StreamsAndFilesExercises\4CopyBinaryFile\obj\Debug\netcoreapp2.1\4CopyBinaryFile.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\4StreamsAndFilesExercises\4CopyBinaryFile\obj\Debug\netcoreapp2.1\4CopyBinaryFile.pdb

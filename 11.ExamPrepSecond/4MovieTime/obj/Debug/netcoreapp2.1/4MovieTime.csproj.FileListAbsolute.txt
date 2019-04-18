@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationSecond\4MovieTime\bin\Debug\netcoreapp2.1\4MovieTime.deps.json
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationSecond\4MovieTime\bin\Debug\netcoreapp2.1\4MovieTime.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationSecond\4MovieTime\bin\Debug\netcoreapp2.1\4MovieTime.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationSecond\4MovieTime\bin\Debug\netcoreapp2.1\4MovieTime.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationSecond\4MovieTime\bin\Debug\netcoreapp2.1\4MovieTime.pdb
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationSecond\4MovieTime\obj\Debug\netcoreapp2.1\4MovieTime.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationSecond\4MovieTime\obj\Debug\netcoreapp2.1\4MovieTime.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationSecond\4MovieTime\obj\Debug\netcoreapp2.1\4MovieTime.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationSecond\4MovieTime\obj\Debug\netcoreapp2.1\4MovieTime.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationSecond\4MovieTime\obj\Debug\netcoreapp2.1\4MovieTime.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationSecond\4MovieTime\obj\Debug\netcoreapp2.1\4MovieTime.pdb

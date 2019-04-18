@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationSecond\1Crossroads\bin\Debug\netcoreapp2.1\1Crossroads.deps.json
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationSecond\1Crossroads\bin\Debug\netcoreapp2.1\1Crossroads.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationSecond\1Crossroads\bin\Debug\netcoreapp2.1\1Crossroads.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationSecond\1Crossroads\bin\Debug\netcoreapp2.1\1Crossroads.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationSecond\1Crossroads\bin\Debug\netcoreapp2.1\1Crossroads.pdb
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationSecond\1Crossroads\obj\Debug\netcoreapp2.1\1Crossroads.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationSecond\1Crossroads\obj\Debug\netcoreapp2.1\1Crossroads.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationSecond\1Crossroads\obj\Debug\netcoreapp2.1\1Crossroads.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationSecond\1Crossroads\obj\Debug\netcoreapp2.1\1Crossroads.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationSecond\1Crossroads\obj\Debug\netcoreapp2.1\1Crossroads.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationSecond\1Crossroads\obj\Debug\netcoreapp2.1\1Crossroads.pdb

@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#Advanced\StackAndQueueExercises\8StackFibonacci\bin\Debug\netcoreapp2.1\8StackFibonacci.deps.json
+D:\MyFolder\C#Fundamentals\C#Advanced\StackAndQueueExercises\8StackFibonacci\bin\Debug\netcoreapp2.1\8StackFibonacci.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#Advanced\StackAndQueueExercises\8StackFibonacci\bin\Debug\netcoreapp2.1\8StackFibonacci.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#Advanced\StackAndQueueExercises\8StackFibonacci\bin\Debug\netcoreapp2.1\8StackFibonacci.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\StackAndQueueExercises\8StackFibonacci\bin\Debug\netcoreapp2.1\8StackFibonacci.pdb
+D:\MyFolder\C#Fundamentals\C#Advanced\StackAndQueueExercises\8StackFibonacci\obj\Debug\netcoreapp2.1\8StackFibonacci.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\StackAndQueueExercises\8StackFibonacci\obj\Debug\netcoreapp2.1\8StackFibonacci.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\StackAndQueueExercises\8StackFibonacci\obj\Debug\netcoreapp2.1\8StackFibonacci.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\StackAndQueueExercises\8StackFibonacci\obj\Debug\netcoreapp2.1\8StackFibonacci.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#Advanced\StackAndQueueExercises\8StackFibonacci\obj\Debug\netcoreapp2.1\8StackFibonacci.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\StackAndQueueExercises\8StackFibonacci\obj\Debug\netcoreapp2.1\8StackFibonacci.pdb

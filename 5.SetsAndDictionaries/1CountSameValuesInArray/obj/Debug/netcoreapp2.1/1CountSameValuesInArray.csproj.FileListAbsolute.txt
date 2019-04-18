@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#Advanced\3SetsAndDictionaries\1CountSameValuesInArray\bin\Debug\netcoreapp2.1\1CountSameValuesInArray.deps.json
+D:\MyFolder\C#Fundamentals\C#Advanced\3SetsAndDictionaries\1CountSameValuesInArray\bin\Debug\netcoreapp2.1\1CountSameValuesInArray.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#Advanced\3SetsAndDictionaries\1CountSameValuesInArray\bin\Debug\netcoreapp2.1\1CountSameValuesInArray.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#Advanced\3SetsAndDictionaries\1CountSameValuesInArray\bin\Debug\netcoreapp2.1\1CountSameValuesInArray.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\3SetsAndDictionaries\1CountSameValuesInArray\bin\Debug\netcoreapp2.1\1CountSameValuesInArray.pdb
+D:\MyFolder\C#Fundamentals\C#Advanced\3SetsAndDictionaries\1CountSameValuesInArray\obj\Debug\netcoreapp2.1\1CountSameValuesInArray.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\3SetsAndDictionaries\1CountSameValuesInArray\obj\Debug\netcoreapp2.1\1CountSameValuesInArray.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\3SetsAndDictionaries\1CountSameValuesInArray\obj\Debug\netcoreapp2.1\1CountSameValuesInArray.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\3SetsAndDictionaries\1CountSameValuesInArray\obj\Debug\netcoreapp2.1\1CountSameValuesInArray.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#Advanced\3SetsAndDictionaries\1CountSameValuesInArray\obj\Debug\netcoreapp2.1\1CountSameValuesInArray.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\3SetsAndDictionaries\1CountSameValuesInArray\obj\Debug\netcoreapp2.1\1CountSameValuesInArray.pdb

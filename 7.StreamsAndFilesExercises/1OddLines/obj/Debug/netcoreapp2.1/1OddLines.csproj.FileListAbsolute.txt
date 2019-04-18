@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#Advanced\4StreamsAndFilesExercises\1OddLines\bin\Debug\netcoreapp2.1\1OddLines.deps.json
+D:\MyFolder\C#Fundamentals\C#Advanced\4StreamsAndFilesExercises\1OddLines\bin\Debug\netcoreapp2.1\1OddLines.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#Advanced\4StreamsAndFilesExercises\1OddLines\bin\Debug\netcoreapp2.1\1OddLines.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#Advanced\4StreamsAndFilesExercises\1OddLines\bin\Debug\netcoreapp2.1\1OddLines.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\4StreamsAndFilesExercises\1OddLines\bin\Debug\netcoreapp2.1\1OddLines.pdb
+D:\MyFolder\C#Fundamentals\C#Advanced\4StreamsAndFilesExercises\1OddLines\obj\Debug\netcoreapp2.1\1OddLines.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\4StreamsAndFilesExercises\1OddLines\obj\Debug\netcoreapp2.1\1OddLines.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\4StreamsAndFilesExercises\1OddLines\obj\Debug\netcoreapp2.1\1OddLines.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\4StreamsAndFilesExercises\1OddLines\obj\Debug\netcoreapp2.1\1OddLines.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#Advanced\4StreamsAndFilesExercises\1OddLines\obj\Debug\netcoreapp2.1\1OddLines.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\4StreamsAndFilesExercises\1OddLines\obj\Debug\netcoreapp2.1\1OddLines.pdb

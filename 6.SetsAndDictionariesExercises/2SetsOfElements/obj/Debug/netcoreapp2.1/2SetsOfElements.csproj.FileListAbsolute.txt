@@ -1,0 +1,10 @@
+D:\MyFolder\C#Fundamentals\C#Advanced\SetsAndDictionariesExercises\2SetsOfElements\bin\Debug\netcoreapp2.1\2SetsOfElements.deps.json
+D:\MyFolder\C#Fundamentals\C#Advanced\SetsAndDictionariesExercises\2SetsOfElements\bin\Debug\netcoreapp2.1\2SetsOfElements.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#Advanced\SetsAndDictionariesExercises\2SetsOfElements\bin\Debug\netcoreapp2.1\2SetsOfElements.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#Advanced\SetsAndDictionariesExercises\2SetsOfElements\bin\Debug\netcoreapp2.1\2SetsOfElements.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\SetsAndDictionariesExercises\2SetsOfElements\bin\Debug\netcoreapp2.1\2SetsOfElements.pdb
+D:\MyFolder\C#Fundamentals\C#Advanced\SetsAndDictionariesExercises\2SetsOfElements\obj\Debug\netcoreapp2.1\2SetsOfElements.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\SetsAndDictionariesExercises\2SetsOfElements\obj\Debug\netcoreapp2.1\2SetsOfElements.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\SetsAndDictionariesExercises\2SetsOfElements\obj\Debug\netcoreapp2.1\2SetsOfElements.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#Advanced\SetsAndDictionariesExercises\2SetsOfElements\obj\Debug\netcoreapp2.1\2SetsOfElements.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\SetsAndDictionariesExercises\2SetsOfElements\obj\Debug\netcoreapp2.1\2SetsOfElements.pdb

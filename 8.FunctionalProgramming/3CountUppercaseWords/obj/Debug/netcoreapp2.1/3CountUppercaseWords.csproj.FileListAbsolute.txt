@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#Advanced\5FunctionalProgramming\3CountUppercaseWords\bin\Debug\netcoreapp2.1\3CountUppercaseWords.deps.json
+D:\MyFolder\C#Fundamentals\C#Advanced\5FunctionalProgramming\3CountUppercaseWords\bin\Debug\netcoreapp2.1\3CountUppercaseWords.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#Advanced\5FunctionalProgramming\3CountUppercaseWords\bin\Debug\netcoreapp2.1\3CountUppercaseWords.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#Advanced\5FunctionalProgramming\3CountUppercaseWords\bin\Debug\netcoreapp2.1\3CountUppercaseWords.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\5FunctionalProgramming\3CountUppercaseWords\bin\Debug\netcoreapp2.1\3CountUppercaseWords.pdb
+D:\MyFolder\C#Fundamentals\C#Advanced\5FunctionalProgramming\3CountUppercaseWords\obj\Debug\netcoreapp2.1\3CountUppercaseWords.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\5FunctionalProgramming\3CountUppercaseWords\obj\Debug\netcoreapp2.1\3CountUppercaseWords.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\5FunctionalProgramming\3CountUppercaseWords\obj\Debug\netcoreapp2.1\3CountUppercaseWords.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\5FunctionalProgramming\3CountUppercaseWords\obj\Debug\netcoreapp2.1\3CountUppercaseWords.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#Advanced\5FunctionalProgramming\3CountUppercaseWords\obj\Debug\netcoreapp2.1\3CountUppercaseWords.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\5FunctionalProgramming\3CountUppercaseWords\obj\Debug\netcoreapp2.1\3CountUppercaseWords.pdb

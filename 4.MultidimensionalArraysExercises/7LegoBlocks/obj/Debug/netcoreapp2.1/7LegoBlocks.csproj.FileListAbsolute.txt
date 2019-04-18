@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\7LegoBlocks\bin\Debug\netcoreapp2.1\7LegoBlocks.deps.json
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\7LegoBlocks\bin\Debug\netcoreapp2.1\7LegoBlocks.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\7LegoBlocks\bin\Debug\netcoreapp2.1\7LegoBlocks.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\7LegoBlocks\bin\Debug\netcoreapp2.1\7LegoBlocks.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\7LegoBlocks\bin\Debug\netcoreapp2.1\7LegoBlocks.pdb
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\7LegoBlocks\obj\Debug\netcoreapp2.1\7LegoBlocks.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\7LegoBlocks\obj\Debug\netcoreapp2.1\7LegoBlocks.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\7LegoBlocks\obj\Debug\netcoreapp2.1\7LegoBlocks.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\7LegoBlocks\obj\Debug\netcoreapp2.1\7LegoBlocks.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\7LegoBlocks\obj\Debug\netcoreapp2.1\7LegoBlocks.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\7LegoBlocks\obj\Debug\netcoreapp2.1\7LegoBlocks.pdb

@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#Advanced\Exam25June2017\1Regeh\bin\Debug\netcoreapp2.1\1Regeh.deps.json
+D:\MyFolder\C#Fundamentals\C#Advanced\Exam25June2017\1Regeh\bin\Debug\netcoreapp2.1\1Regeh.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#Advanced\Exam25June2017\1Regeh\bin\Debug\netcoreapp2.1\1Regeh.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#Advanced\Exam25June2017\1Regeh\bin\Debug\netcoreapp2.1\1Regeh.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\Exam25June2017\1Regeh\bin\Debug\netcoreapp2.1\1Regeh.pdb
+D:\MyFolder\C#Fundamentals\C#Advanced\Exam25June2017\1Regeh\obj\Debug\netcoreapp2.1\1Regeh.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\Exam25June2017\1Regeh\obj\Debug\netcoreapp2.1\1Regeh.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\Exam25June2017\1Regeh\obj\Debug\netcoreapp2.1\1Regeh.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\Exam25June2017\1Regeh\obj\Debug\netcoreapp2.1\1Regeh.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#Advanced\Exam25June2017\1Regeh\obj\Debug\netcoreapp2.1\1Regeh.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\Exam25June2017\1Regeh\obj\Debug\netcoreapp2.1\1Regeh.pdb

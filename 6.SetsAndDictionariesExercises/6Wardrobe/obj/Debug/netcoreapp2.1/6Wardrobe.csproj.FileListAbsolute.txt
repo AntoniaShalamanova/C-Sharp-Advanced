@@ -1,0 +1,10 @@
+D:\MyFolder\C#Fundamentals\C#Advanced\SetsAndDictionariesExercises\6Wardrobe\bin\Debug\netcoreapp2.1\6Wardrobe.deps.json
+D:\MyFolder\C#Fundamentals\C#Advanced\SetsAndDictionariesExercises\6Wardrobe\bin\Debug\netcoreapp2.1\6Wardrobe.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#Advanced\SetsAndDictionariesExercises\6Wardrobe\bin\Debug\netcoreapp2.1\6Wardrobe.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#Advanced\SetsAndDictionariesExercises\6Wardrobe\bin\Debug\netcoreapp2.1\6Wardrobe.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\SetsAndDictionariesExercises\6Wardrobe\bin\Debug\netcoreapp2.1\6Wardrobe.pdb
+D:\MyFolder\C#Fundamentals\C#Advanced\SetsAndDictionariesExercises\6Wardrobe\obj\Debug\netcoreapp2.1\6Wardrobe.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\SetsAndDictionariesExercises\6Wardrobe\obj\Debug\netcoreapp2.1\6Wardrobe.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\SetsAndDictionariesExercises\6Wardrobe\obj\Debug\netcoreapp2.1\6Wardrobe.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#Advanced\SetsAndDictionariesExercises\6Wardrobe\obj\Debug\netcoreapp2.1\6Wardrobe.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\SetsAndDictionariesExercises\6Wardrobe\obj\Debug\netcoreapp2.1\6Wardrobe.pdb

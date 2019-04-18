@@ -1,0 +1,10 @@
+D:\MyFolder\C#Fundamentals\C#Advanced\SetsAndDictionariesExercises\4EvenTimes\bin\Debug\netcoreapp2.1\4EvenTimes.deps.json
+D:\MyFolder\C#Fundamentals\C#Advanced\SetsAndDictionariesExercises\4EvenTimes\bin\Debug\netcoreapp2.1\4EvenTimes.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#Advanced\SetsAndDictionariesExercises\4EvenTimes\bin\Debug\netcoreapp2.1\4EvenTimes.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#Advanced\SetsAndDictionariesExercises\4EvenTimes\bin\Debug\netcoreapp2.1\4EvenTimes.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\SetsAndDictionariesExercises\4EvenTimes\bin\Debug\netcoreapp2.1\4EvenTimes.pdb
+D:\MyFolder\C#Fundamentals\C#Advanced\SetsAndDictionariesExercises\4EvenTimes\obj\Debug\netcoreapp2.1\4EvenTimes.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\SetsAndDictionariesExercises\4EvenTimes\obj\Debug\netcoreapp2.1\4EvenTimes.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\SetsAndDictionariesExercises\4EvenTimes\obj\Debug\netcoreapp2.1\4EvenTimes.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#Advanced\SetsAndDictionariesExercises\4EvenTimes\obj\Debug\netcoreapp2.1\4EvenTimes.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\SetsAndDictionariesExercises\4EvenTimes\obj\Debug\netcoreapp2.1\4EvenTimes.pdb

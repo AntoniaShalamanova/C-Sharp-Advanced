@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#Advanced\5FunctionalProgramming\Delegates\bin\Debug\netcoreapp2.1\Delegates.deps.json
+D:\MyFolder\C#Fundamentals\C#Advanced\5FunctionalProgramming\Delegates\bin\Debug\netcoreapp2.1\Delegates.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#Advanced\5FunctionalProgramming\Delegates\bin\Debug\netcoreapp2.1\Delegates.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#Advanced\5FunctionalProgramming\Delegates\bin\Debug\netcoreapp2.1\Delegates.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\5FunctionalProgramming\Delegates\bin\Debug\netcoreapp2.1\Delegates.pdb
+D:\MyFolder\C#Fundamentals\C#Advanced\5FunctionalProgramming\Delegates\obj\Debug\netcoreapp2.1\Delegates.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\5FunctionalProgramming\Delegates\obj\Debug\netcoreapp2.1\Delegates.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\5FunctionalProgramming\Delegates\obj\Debug\netcoreapp2.1\Delegates.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\5FunctionalProgramming\Delegates\obj\Debug\netcoreapp2.1\Delegates.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#Advanced\5FunctionalProgramming\Delegates\obj\Debug\netcoreapp2.1\Delegates.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\5FunctionalProgramming\Delegates\obj\Debug\netcoreapp2.1\Delegates.pdb

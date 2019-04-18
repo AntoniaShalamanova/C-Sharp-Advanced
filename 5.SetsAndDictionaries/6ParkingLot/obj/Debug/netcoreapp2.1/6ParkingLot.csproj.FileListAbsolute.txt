@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#Advanced\3SetsAndDictionaries\6ParkingLot\bin\Debug\netcoreapp2.1\6ParkingLot.deps.json
+D:\MyFolder\C#Fundamentals\C#Advanced\3SetsAndDictionaries\6ParkingLot\bin\Debug\netcoreapp2.1\6ParkingLot.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#Advanced\3SetsAndDictionaries\6ParkingLot\bin\Debug\netcoreapp2.1\6ParkingLot.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#Advanced\3SetsAndDictionaries\6ParkingLot\bin\Debug\netcoreapp2.1\6ParkingLot.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\3SetsAndDictionaries\6ParkingLot\bin\Debug\netcoreapp2.1\6ParkingLot.pdb
+D:\MyFolder\C#Fundamentals\C#Advanced\3SetsAndDictionaries\6ParkingLot\obj\Debug\netcoreapp2.1\6ParkingLot.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\3SetsAndDictionaries\6ParkingLot\obj\Debug\netcoreapp2.1\6ParkingLot.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\3SetsAndDictionaries\6ParkingLot\obj\Debug\netcoreapp2.1\6ParkingLot.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\3SetsAndDictionaries\6ParkingLot\obj\Debug\netcoreapp2.1\6ParkingLot.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#Advanced\3SetsAndDictionaries\6ParkingLot\obj\Debug\netcoreapp2.1\6ParkingLot.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\3SetsAndDictionaries\6ParkingLot\obj\Debug\netcoreapp2.1\6ParkingLot.pdb

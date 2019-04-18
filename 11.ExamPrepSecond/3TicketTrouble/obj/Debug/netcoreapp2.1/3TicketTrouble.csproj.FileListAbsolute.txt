@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationSecond\3TicketTrouble\bin\Debug\netcoreapp2.1\3TicketTrouble.deps.json
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationSecond\3TicketTrouble\bin\Debug\netcoreapp2.1\3TicketTrouble.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationSecond\3TicketTrouble\bin\Debug\netcoreapp2.1\3TicketTrouble.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationSecond\3TicketTrouble\bin\Debug\netcoreapp2.1\3TicketTrouble.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationSecond\3TicketTrouble\bin\Debug\netcoreapp2.1\3TicketTrouble.pdb
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationSecond\3TicketTrouble\obj\Debug\netcoreapp2.1\3TicketTrouble.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationSecond\3TicketTrouble\obj\Debug\netcoreapp2.1\3TicketTrouble.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationSecond\3TicketTrouble\obj\Debug\netcoreapp2.1\3TicketTrouble.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationSecond\3TicketTrouble\obj\Debug\netcoreapp2.1\3TicketTrouble.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationSecond\3TicketTrouble\obj\Debug\netcoreapp2.1\3TicketTrouble.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationSecond\3TicketTrouble\obj\Debug\netcoreapp2.1\3TicketTrouble.pdb

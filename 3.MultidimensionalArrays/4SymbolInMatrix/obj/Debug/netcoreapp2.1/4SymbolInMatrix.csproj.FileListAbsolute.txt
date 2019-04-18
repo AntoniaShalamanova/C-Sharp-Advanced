@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#Advanced\2MultidimensionalArrays\4SymbolInMatrix\bin\Debug\netcoreapp2.1\4SymbolInMatrix.deps.json
+D:\MyFolder\C#Fundamentals\C#Advanced\2MultidimensionalArrays\4SymbolInMatrix\bin\Debug\netcoreapp2.1\4SymbolInMatrix.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#Advanced\2MultidimensionalArrays\4SymbolInMatrix\bin\Debug\netcoreapp2.1\4SymbolInMatrix.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#Advanced\2MultidimensionalArrays\4SymbolInMatrix\bin\Debug\netcoreapp2.1\4SymbolInMatrix.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\2MultidimensionalArrays\4SymbolInMatrix\bin\Debug\netcoreapp2.1\4SymbolInMatrix.pdb
+D:\MyFolder\C#Fundamentals\C#Advanced\2MultidimensionalArrays\4SymbolInMatrix\obj\Debug\netcoreapp2.1\4SymbolInMatrix.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\2MultidimensionalArrays\4SymbolInMatrix\obj\Debug\netcoreapp2.1\4SymbolInMatrix.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\2MultidimensionalArrays\4SymbolInMatrix\obj\Debug\netcoreapp2.1\4SymbolInMatrix.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\2MultidimensionalArrays\4SymbolInMatrix\obj\Debug\netcoreapp2.1\4SymbolInMatrix.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#Advanced\2MultidimensionalArrays\4SymbolInMatrix\obj\Debug\netcoreapp2.1\4SymbolInMatrix.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\2MultidimensionalArrays\4SymbolInMatrix\obj\Debug\netcoreapp2.1\4SymbolInMatrix.pdb

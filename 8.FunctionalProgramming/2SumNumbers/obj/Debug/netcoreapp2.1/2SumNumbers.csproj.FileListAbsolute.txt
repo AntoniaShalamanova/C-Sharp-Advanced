@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#Advanced\5FunctionalProgramming\2SumNumbers\bin\Debug\netcoreapp2.1\2SumNumbers.deps.json
+D:\MyFolder\C#Fundamentals\C#Advanced\5FunctionalProgramming\2SumNumbers\bin\Debug\netcoreapp2.1\2SumNumbers.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#Advanced\5FunctionalProgramming\2SumNumbers\bin\Debug\netcoreapp2.1\2SumNumbers.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#Advanced\5FunctionalProgramming\2SumNumbers\bin\Debug\netcoreapp2.1\2SumNumbers.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\5FunctionalProgramming\2SumNumbers\bin\Debug\netcoreapp2.1\2SumNumbers.pdb
+D:\MyFolder\C#Fundamentals\C#Advanced\5FunctionalProgramming\2SumNumbers\obj\Debug\netcoreapp2.1\2SumNumbers.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\5FunctionalProgramming\2SumNumbers\obj\Debug\netcoreapp2.1\2SumNumbers.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\5FunctionalProgramming\2SumNumbers\obj\Debug\netcoreapp2.1\2SumNumbers.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\5FunctionalProgramming\2SumNumbers\obj\Debug\netcoreapp2.1\2SumNumbers.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#Advanced\5FunctionalProgramming\2SumNumbers\obj\Debug\netcoreapp2.1\2SumNumbers.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\5FunctionalProgramming\2SumNumbers\obj\Debug\netcoreapp2.1\2SumNumbers.pdb

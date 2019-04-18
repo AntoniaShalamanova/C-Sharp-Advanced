@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#Advanced\3SetsAndDictionaries\5RecordUniqueNames\bin\Debug\netcoreapp2.1\5RecordUniqueNames.deps.json
+D:\MyFolder\C#Fundamentals\C#Advanced\3SetsAndDictionaries\5RecordUniqueNames\bin\Debug\netcoreapp2.1\5RecordUniqueNames.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#Advanced\3SetsAndDictionaries\5RecordUniqueNames\bin\Debug\netcoreapp2.1\5RecordUniqueNames.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#Advanced\3SetsAndDictionaries\5RecordUniqueNames\bin\Debug\netcoreapp2.1\5RecordUniqueNames.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\3SetsAndDictionaries\5RecordUniqueNames\bin\Debug\netcoreapp2.1\5RecordUniqueNames.pdb
+D:\MyFolder\C#Fundamentals\C#Advanced\3SetsAndDictionaries\5RecordUniqueNames\obj\Debug\netcoreapp2.1\5RecordUniqueNames.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\3SetsAndDictionaries\5RecordUniqueNames\obj\Debug\netcoreapp2.1\5RecordUniqueNames.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\3SetsAndDictionaries\5RecordUniqueNames\obj\Debug\netcoreapp2.1\5RecordUniqueNames.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\3SetsAndDictionaries\5RecordUniqueNames\obj\Debug\netcoreapp2.1\5RecordUniqueNames.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#Advanced\3SetsAndDictionaries\5RecordUniqueNames\obj\Debug\netcoreapp2.1\5RecordUniqueNames.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\3SetsAndDictionaries\5RecordUniqueNames\obj\Debug\netcoreapp2.1\5RecordUniqueNames.pdb

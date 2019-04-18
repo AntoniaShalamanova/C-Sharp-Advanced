@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\3SquaresInMatrix2x2\bin\Debug\netcoreapp2.1\3SquaresInMatrix2x2.deps.json
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\3SquaresInMatrix2x2\bin\Debug\netcoreapp2.1\3SquaresInMatrix2x2.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\3SquaresInMatrix2x2\bin\Debug\netcoreapp2.1\3SquaresInMatrix2x2.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\3SquaresInMatrix2x2\bin\Debug\netcoreapp2.1\3SquaresInMatrix2x2.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\3SquaresInMatrix2x2\bin\Debug\netcoreapp2.1\3SquaresInMatrix2x2.pdb
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\3SquaresInMatrix2x2\obj\Debug\netcoreapp2.1\3SquaresInMatrix2x2.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\3SquaresInMatrix2x2\obj\Debug\netcoreapp2.1\3SquaresInMatrix2x2.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\3SquaresInMatrix2x2\obj\Debug\netcoreapp2.1\3SquaresInMatrix2x2.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\3SquaresInMatrix2x2\obj\Debug\netcoreapp2.1\3SquaresInMatrix2x2.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\3SquaresInMatrix2x2\obj\Debug\netcoreapp2.1\3SquaresInMatrix2x2.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\3SquaresInMatrix2x2\obj\Debug\netcoreapp2.1\3SquaresInMatrix2x2.pdb

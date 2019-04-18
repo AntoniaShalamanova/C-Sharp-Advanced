@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#Advanced\StackAndQueueExercises\9SimpleTextEditor\bin\Debug\netcoreapp2.1\9SimpleTextEditor.deps.json
+D:\MyFolder\C#Fundamentals\C#Advanced\StackAndQueueExercises\9SimpleTextEditor\bin\Debug\netcoreapp2.1\9SimpleTextEditor.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#Advanced\StackAndQueueExercises\9SimpleTextEditor\bin\Debug\netcoreapp2.1\9SimpleTextEditor.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#Advanced\StackAndQueueExercises\9SimpleTextEditor\bin\Debug\netcoreapp2.1\9SimpleTextEditor.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\StackAndQueueExercises\9SimpleTextEditor\bin\Debug\netcoreapp2.1\9SimpleTextEditor.pdb
+D:\MyFolder\C#Fundamentals\C#Advanced\StackAndQueueExercises\9SimpleTextEditor\obj\Debug\netcoreapp2.1\9SimpleTextEditor.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\StackAndQueueExercises\9SimpleTextEditor\obj\Debug\netcoreapp2.1\9SimpleTextEditor.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\StackAndQueueExercises\9SimpleTextEditor\obj\Debug\netcoreapp2.1\9SimpleTextEditor.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#Advanced\StackAndQueueExercises\9SimpleTextEditor\obj\Debug\netcoreapp2.1\9SimpleTextEditor.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\StackAndQueueExercises\9SimpleTextEditor\obj\Debug\netcoreapp2.1\9SimpleTextEditor.pdb
+D:\MyFolder\C#Fundamentals\C#Advanced\StackAndQueueExercises\9SimpleTextEditor\obj\Debug\netcoreapp2.1\9SimpleTextEditor.csprojAssemblyReference.cache

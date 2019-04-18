@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationFirst\3CryptoBlockchain\bin\Debug\netcoreapp2.1\3CryptoBlockchain.deps.json
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationFirst\3CryptoBlockchain\bin\Debug\netcoreapp2.1\3CryptoBlockchain.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationFirst\3CryptoBlockchain\bin\Debug\netcoreapp2.1\3CryptoBlockchain.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationFirst\3CryptoBlockchain\bin\Debug\netcoreapp2.1\3CryptoBlockchain.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationFirst\3CryptoBlockchain\bin\Debug\netcoreapp2.1\3CryptoBlockchain.pdb
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationFirst\3CryptoBlockchain\obj\Debug\netcoreapp2.1\3CryptoBlockchain.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationFirst\3CryptoBlockchain\obj\Debug\netcoreapp2.1\3CryptoBlockchain.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationFirst\3CryptoBlockchain\obj\Debug\netcoreapp2.1\3CryptoBlockchain.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationFirst\3CryptoBlockchain\obj\Debug\netcoreapp2.1\3CryptoBlockchain.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationFirst\3CryptoBlockchain\obj\Debug\netcoreapp2.1\3CryptoBlockchain.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationFirst\3CryptoBlockchain\obj\Debug\netcoreapp2.1\3CryptoBlockchain.pdb

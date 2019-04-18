@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#Advanced\2MultidimensionalArrays\5SquareWithMaximumSum\bin\Debug\netcoreapp2.1\5SquareWithMaximumSum.deps.json
+D:\MyFolder\C#Fundamentals\C#Advanced\2MultidimensionalArrays\5SquareWithMaximumSum\bin\Debug\netcoreapp2.1\5SquareWithMaximumSum.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#Advanced\2MultidimensionalArrays\5SquareWithMaximumSum\bin\Debug\netcoreapp2.1\5SquareWithMaximumSum.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#Advanced\2MultidimensionalArrays\5SquareWithMaximumSum\bin\Debug\netcoreapp2.1\5SquareWithMaximumSum.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\2MultidimensionalArrays\5SquareWithMaximumSum\bin\Debug\netcoreapp2.1\5SquareWithMaximumSum.pdb
+D:\MyFolder\C#Fundamentals\C#Advanced\2MultidimensionalArrays\5SquareWithMaximumSum\obj\Debug\netcoreapp2.1\5SquareWithMaximumSum.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\2MultidimensionalArrays\5SquareWithMaximumSum\obj\Debug\netcoreapp2.1\5SquareWithMaximumSum.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\2MultidimensionalArrays\5SquareWithMaximumSum\obj\Debug\netcoreapp2.1\5SquareWithMaximumSum.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\2MultidimensionalArrays\5SquareWithMaximumSum\obj\Debug\netcoreapp2.1\5SquareWithMaximumSum.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#Advanced\2MultidimensionalArrays\5SquareWithMaximumSum\obj\Debug\netcoreapp2.1\5SquareWithMaximumSum.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\2MultidimensionalArrays\5SquareWithMaximumSum\obj\Debug\netcoreapp2.1\5SquareWithMaximumSum.pdb

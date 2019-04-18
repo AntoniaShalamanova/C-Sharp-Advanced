@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#Advanced\SetsAndDictionariesExercises\8Ranking\bin\Debug\netcoreapp2.1\8Ranking.deps.json
+D:\MyFolder\C#Fundamentals\C#Advanced\SetsAndDictionariesExercises\8Ranking\bin\Debug\netcoreapp2.1\8Ranking.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#Advanced\SetsAndDictionariesExercises\8Ranking\bin\Debug\netcoreapp2.1\8Ranking.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#Advanced\SetsAndDictionariesExercises\8Ranking\bin\Debug\netcoreapp2.1\8Ranking.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\SetsAndDictionariesExercises\8Ranking\bin\Debug\netcoreapp2.1\8Ranking.pdb
+D:\MyFolder\C#Fundamentals\C#Advanced\SetsAndDictionariesExercises\8Ranking\obj\Debug\netcoreapp2.1\8Ranking.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\SetsAndDictionariesExercises\8Ranking\obj\Debug\netcoreapp2.1\8Ranking.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\SetsAndDictionariesExercises\8Ranking\obj\Debug\netcoreapp2.1\8Ranking.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\SetsAndDictionariesExercises\8Ranking\obj\Debug\netcoreapp2.1\8Ranking.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#Advanced\SetsAndDictionariesExercises\8Ranking\obj\Debug\netcoreapp2.1\8Ranking.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\SetsAndDictionariesExercises\8Ranking\obj\Debug\netcoreapp2.1\8Ranking.pdb

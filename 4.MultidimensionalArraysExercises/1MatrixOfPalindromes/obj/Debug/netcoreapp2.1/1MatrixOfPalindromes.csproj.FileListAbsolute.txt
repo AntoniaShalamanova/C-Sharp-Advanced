@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\1MatrixOfPalindromes\bin\Debug\netcoreapp2.1\1MatrixOfPalindromes.deps.json
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\1MatrixOfPalindromes\bin\Debug\netcoreapp2.1\1MatrixOfPalindromes.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\1MatrixOfPalindromes\bin\Debug\netcoreapp2.1\1MatrixOfPalindromes.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\1MatrixOfPalindromes\bin\Debug\netcoreapp2.1\1MatrixOfPalindromes.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\1MatrixOfPalindromes\bin\Debug\netcoreapp2.1\1MatrixOfPalindromes.pdb
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\1MatrixOfPalindromes\obj\Debug\netcoreapp2.1\1MatrixOfPalindromes.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\1MatrixOfPalindromes\obj\Debug\netcoreapp2.1\1MatrixOfPalindromes.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\1MatrixOfPalindromes\obj\Debug\netcoreapp2.1\1MatrixOfPalindromes.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\1MatrixOfPalindromes\obj\Debug\netcoreapp2.1\1MatrixOfPalindromes.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\1MatrixOfPalindromes\obj\Debug\netcoreapp2.1\1MatrixOfPalindromes.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\1MatrixOfPalindromes\obj\Debug\netcoreapp2.1\1MatrixOfPalindromes.pdb

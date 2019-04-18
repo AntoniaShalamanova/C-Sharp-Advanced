@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#Advanced\MyExam14October2018\1DataTransfer\bin\Debug\netcoreapp2.1\1DataTransfer.deps.json
+D:\MyFolder\C#Fundamentals\C#Advanced\MyExam14October2018\1DataTransfer\bin\Debug\netcoreapp2.1\1DataTransfer.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#Advanced\MyExam14October2018\1DataTransfer\bin\Debug\netcoreapp2.1\1DataTransfer.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#Advanced\MyExam14October2018\1DataTransfer\bin\Debug\netcoreapp2.1\1DataTransfer.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\MyExam14October2018\1DataTransfer\bin\Debug\netcoreapp2.1\1DataTransfer.pdb
+D:\MyFolder\C#Fundamentals\C#Advanced\MyExam14October2018\1DataTransfer\obj\Debug\netcoreapp2.1\1DataTransfer.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\MyExam14October2018\1DataTransfer\obj\Debug\netcoreapp2.1\1DataTransfer.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\MyExam14October2018\1DataTransfer\obj\Debug\netcoreapp2.1\1DataTransfer.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\MyExam14October2018\1DataTransfer\obj\Debug\netcoreapp2.1\1DataTransfer.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#Advanced\MyExam14October2018\1DataTransfer\obj\Debug\netcoreapp2.1\1DataTransfer.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\MyExam14October2018\1DataTransfer\obj\Debug\netcoreapp2.1\1DataTransfer.pdb

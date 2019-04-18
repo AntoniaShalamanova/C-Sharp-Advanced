@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#Advanced\4StreamsAndFilesExercises\5SlicingFile\bin\Debug\netcoreapp2.1\5SlicingFile.deps.json
+D:\MyFolder\C#Fundamentals\C#Advanced\4StreamsAndFilesExercises\5SlicingFile\bin\Debug\netcoreapp2.1\5SlicingFile.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#Advanced\4StreamsAndFilesExercises\5SlicingFile\bin\Debug\netcoreapp2.1\5SlicingFile.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#Advanced\4StreamsAndFilesExercises\5SlicingFile\bin\Debug\netcoreapp2.1\5SlicingFile.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\4StreamsAndFilesExercises\5SlicingFile\bin\Debug\netcoreapp2.1\5SlicingFile.pdb
+D:\MyFolder\C#Fundamentals\C#Advanced\4StreamsAndFilesExercises\5SlicingFile\obj\Debug\netcoreapp2.1\5SlicingFile.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\4StreamsAndFilesExercises\5SlicingFile\obj\Debug\netcoreapp2.1\5SlicingFile.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\4StreamsAndFilesExercises\5SlicingFile\obj\Debug\netcoreapp2.1\5SlicingFile.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\4StreamsAndFilesExercises\5SlicingFile\obj\Debug\netcoreapp2.1\5SlicingFile.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#Advanced\4StreamsAndFilesExercises\5SlicingFile\obj\Debug\netcoreapp2.1\5SlicingFile.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\4StreamsAndFilesExercises\5SlicingFile\obj\Debug\netcoreapp2.1\5SlicingFile.pdb

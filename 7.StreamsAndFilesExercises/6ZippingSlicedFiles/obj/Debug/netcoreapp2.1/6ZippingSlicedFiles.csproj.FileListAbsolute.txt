@@ -1,0 +1,10 @@
+D:\MyFolder\C#Fundamentals\C#Advanced\4StreamsAndFilesExercises\6ZippingSlicedFiles\bin\Debug\netcoreapp2.1\6ZippingSlicedFiles.deps.json
+D:\MyFolder\C#Fundamentals\C#Advanced\4StreamsAndFilesExercises\6ZippingSlicedFiles\bin\Debug\netcoreapp2.1\6ZippingSlicedFiles.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#Advanced\4StreamsAndFilesExercises\6ZippingSlicedFiles\bin\Debug\netcoreapp2.1\6ZippingSlicedFiles.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#Advanced\4StreamsAndFilesExercises\6ZippingSlicedFiles\bin\Debug\netcoreapp2.1\6ZippingSlicedFiles.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\4StreamsAndFilesExercises\6ZippingSlicedFiles\bin\Debug\netcoreapp2.1\6ZippingSlicedFiles.pdb
+D:\MyFolder\C#Fundamentals\C#Advanced\4StreamsAndFilesExercises\6ZippingSlicedFiles\obj\Debug\netcoreapp2.1\6ZippingSlicedFiles.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\4StreamsAndFilesExercises\6ZippingSlicedFiles\obj\Debug\netcoreapp2.1\6ZippingSlicedFiles.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\4StreamsAndFilesExercises\6ZippingSlicedFiles\obj\Debug\netcoreapp2.1\6ZippingSlicedFiles.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#Advanced\4StreamsAndFilesExercises\6ZippingSlicedFiles\obj\Debug\netcoreapp2.1\6ZippingSlicedFiles.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\4StreamsAndFilesExercises\6ZippingSlicedFiles\obj\Debug\netcoreapp2.1\6ZippingSlicedFiles.pdb

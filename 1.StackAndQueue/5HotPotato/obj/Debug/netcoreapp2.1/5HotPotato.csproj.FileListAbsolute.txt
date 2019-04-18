@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#Advanced\1StackAndQueue\5HotPotato\bin\Debug\netcoreapp2.1\5HotPotato.deps.json
+D:\MyFolder\C#Fundamentals\C#Advanced\1StackAndQueue\5HotPotato\bin\Debug\netcoreapp2.1\5HotPotato.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#Advanced\1StackAndQueue\5HotPotato\bin\Debug\netcoreapp2.1\5HotPotato.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#Advanced\1StackAndQueue\5HotPotato\bin\Debug\netcoreapp2.1\5HotPotato.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\1StackAndQueue\5HotPotato\bin\Debug\netcoreapp2.1\5HotPotato.pdb
+D:\MyFolder\C#Fundamentals\C#Advanced\1StackAndQueue\5HotPotato\obj\Debug\netcoreapp2.1\5HotPotato.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\1StackAndQueue\5HotPotato\obj\Debug\netcoreapp2.1\5HotPotato.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\1StackAndQueue\5HotPotato\obj\Debug\netcoreapp2.1\5HotPotato.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\1StackAndQueue\5HotPotato\obj\Debug\netcoreapp2.1\5HotPotato.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#Advanced\1StackAndQueue\5HotPotato\obj\Debug\netcoreapp2.1\5HotPotato.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\1StackAndQueue\5HotPotato\obj\Debug\netcoreapp2.1\5HotPotato.pdb

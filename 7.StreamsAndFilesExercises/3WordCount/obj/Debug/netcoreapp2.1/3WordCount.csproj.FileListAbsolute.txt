@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#Advanced\4StreamsAndFilesExercises\3WordCount\bin\Debug\netcoreapp2.1\3WordCount.deps.json
+D:\MyFolder\C#Fundamentals\C#Advanced\4StreamsAndFilesExercises\3WordCount\bin\Debug\netcoreapp2.1\3WordCount.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#Advanced\4StreamsAndFilesExercises\3WordCount\bin\Debug\netcoreapp2.1\3WordCount.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#Advanced\4StreamsAndFilesExercises\3WordCount\bin\Debug\netcoreapp2.1\3WordCount.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\4StreamsAndFilesExercises\3WordCount\bin\Debug\netcoreapp2.1\3WordCount.pdb
+D:\MyFolder\C#Fundamentals\C#Advanced\4StreamsAndFilesExercises\3WordCount\obj\Debug\netcoreapp2.1\3WordCount.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\4StreamsAndFilesExercises\3WordCount\obj\Debug\netcoreapp2.1\3WordCount.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\4StreamsAndFilesExercises\3WordCount\obj\Debug\netcoreapp2.1\3WordCount.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#Advanced\4StreamsAndFilesExercises\3WordCount\obj\Debug\netcoreapp2.1\3WordCount.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\4StreamsAndFilesExercises\3WordCount\obj\Debug\netcoreapp2.1\3WordCount.pdb
+D:\MyFolder\C#Fundamentals\C#Advanced\4StreamsAndFilesExercises\3WordCount\obj\Debug\netcoreapp2.1\3WordCount.csprojAssemblyReference.cache

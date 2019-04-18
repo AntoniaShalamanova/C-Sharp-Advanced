@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\5RubiksMatrix\bin\Debug\netcoreapp2.1\5RubiksMatrix.deps.json
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\5RubiksMatrix\bin\Debug\netcoreapp2.1\5RubiksMatrix.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\5RubiksMatrix\bin\Debug\netcoreapp2.1\5RubiksMatrix.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\5RubiksMatrix\bin\Debug\netcoreapp2.1\5RubiksMatrix.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\5RubiksMatrix\bin\Debug\netcoreapp2.1\5RubiksMatrix.pdb
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\5RubiksMatrix\obj\Debug\netcoreapp2.1\5RubiksMatrix.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\5RubiksMatrix\obj\Debug\netcoreapp2.1\5RubiksMatrix.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\5RubiksMatrix\obj\Debug\netcoreapp2.1\5RubiksMatrix.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\5RubiksMatrix\obj\Debug\netcoreapp2.1\5RubiksMatrix.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\5RubiksMatrix\obj\Debug\netcoreapp2.1\5RubiksMatrix.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\5RubiksMatrix\obj\Debug\netcoreapp2.1\5RubiksMatrix.pdb

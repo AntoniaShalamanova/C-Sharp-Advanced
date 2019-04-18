@@ -1,0 +1,10 @@
+D:\MyFolder\C#Fundamentals\C#Advanced\FunctionalProgrammingExercises\5AppliedArithmetics\bin\Debug\netcoreapp2.1\5AppliedArithmetics.deps.json
+D:\MyFolder\C#Fundamentals\C#Advanced\FunctionalProgrammingExercises\5AppliedArithmetics\bin\Debug\netcoreapp2.1\5AppliedArithmetics.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#Advanced\FunctionalProgrammingExercises\5AppliedArithmetics\bin\Debug\netcoreapp2.1\5AppliedArithmetics.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#Advanced\FunctionalProgrammingExercises\5AppliedArithmetics\bin\Debug\netcoreapp2.1\5AppliedArithmetics.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\FunctionalProgrammingExercises\5AppliedArithmetics\bin\Debug\netcoreapp2.1\5AppliedArithmetics.pdb
+D:\MyFolder\C#Fundamentals\C#Advanced\FunctionalProgrammingExercises\5AppliedArithmetics\obj\Debug\netcoreapp2.1\5AppliedArithmetics.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\FunctionalProgrammingExercises\5AppliedArithmetics\obj\Debug\netcoreapp2.1\5AppliedArithmetics.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\FunctionalProgrammingExercises\5AppliedArithmetics\obj\Debug\netcoreapp2.1\5AppliedArithmetics.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#Advanced\FunctionalProgrammingExercises\5AppliedArithmetics\obj\Debug\netcoreapp2.1\5AppliedArithmetics.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\FunctionalProgrammingExercises\5AppliedArithmetics\obj\Debug\netcoreapp2.1\5AppliedArithmetics.pdb

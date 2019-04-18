@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#Advanced\2MultidimensionalArrays\6JaggedArrayModification\bin\Debug\netcoreapp2.1\6JaggedArrayModification.deps.json
+D:\MyFolder\C#Fundamentals\C#Advanced\2MultidimensionalArrays\6JaggedArrayModification\bin\Debug\netcoreapp2.1\6JaggedArrayModification.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#Advanced\2MultidimensionalArrays\6JaggedArrayModification\bin\Debug\netcoreapp2.1\6JaggedArrayModification.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#Advanced\2MultidimensionalArrays\6JaggedArrayModification\bin\Debug\netcoreapp2.1\6JaggedArrayModification.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\2MultidimensionalArrays\6JaggedArrayModification\bin\Debug\netcoreapp2.1\6JaggedArrayModification.pdb
+D:\MyFolder\C#Fundamentals\C#Advanced\2MultidimensionalArrays\6JaggedArrayModification\obj\Debug\netcoreapp2.1\6JaggedArrayModification.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\2MultidimensionalArrays\6JaggedArrayModification\obj\Debug\netcoreapp2.1\6JaggedArrayModification.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\2MultidimensionalArrays\6JaggedArrayModification\obj\Debug\netcoreapp2.1\6JaggedArrayModification.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\2MultidimensionalArrays\6JaggedArrayModification\obj\Debug\netcoreapp2.1\6JaggedArrayModification.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#Advanced\2MultidimensionalArrays\6JaggedArrayModification\obj\Debug\netcoreapp2.1\6JaggedArrayModification.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\2MultidimensionalArrays\6JaggedArrayModification\obj\Debug\netcoreapp2.1\6JaggedArrayModification.pdb

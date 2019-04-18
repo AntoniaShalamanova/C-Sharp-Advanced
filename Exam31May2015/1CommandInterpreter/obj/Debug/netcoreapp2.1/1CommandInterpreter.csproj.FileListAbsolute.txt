@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#Advanced\Exam31May2015\1CommandInterpreter\bin\Debug\netcoreapp2.1\1CommandInterpreter.deps.json
+D:\MyFolder\C#Fundamentals\C#Advanced\Exam31May2015\1CommandInterpreter\bin\Debug\netcoreapp2.1\1CommandInterpreter.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#Advanced\Exam31May2015\1CommandInterpreter\bin\Debug\netcoreapp2.1\1CommandInterpreter.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#Advanced\Exam31May2015\1CommandInterpreter\bin\Debug\netcoreapp2.1\1CommandInterpreter.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\Exam31May2015\1CommandInterpreter\bin\Debug\netcoreapp2.1\1CommandInterpreter.pdb
+D:\MyFolder\C#Fundamentals\C#Advanced\Exam31May2015\1CommandInterpreter\obj\Debug\netcoreapp2.1\1CommandInterpreter.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\Exam31May2015\1CommandInterpreter\obj\Debug\netcoreapp2.1\1CommandInterpreter.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\Exam31May2015\1CommandInterpreter\obj\Debug\netcoreapp2.1\1CommandInterpreter.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\Exam31May2015\1CommandInterpreter\obj\Debug\netcoreapp2.1\1CommandInterpreter.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#Advanced\Exam31May2015\1CommandInterpreter\obj\Debug\netcoreapp2.1\1CommandInterpreter.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\Exam31May2015\1CommandInterpreter\obj\Debug\netcoreapp2.1\1CommandInterpreter.pdb

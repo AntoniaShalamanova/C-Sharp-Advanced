@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#Advanced\2MultidimensionalArrays\8PascalTriangle\bin\Debug\netcoreapp2.1\8PascalTriangle.deps.json
+D:\MyFolder\C#Fundamentals\C#Advanced\2MultidimensionalArrays\8PascalTriangle\bin\Debug\netcoreapp2.1\8PascalTriangle.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#Advanced\2MultidimensionalArrays\8PascalTriangle\bin\Debug\netcoreapp2.1\8PascalTriangle.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#Advanced\2MultidimensionalArrays\8PascalTriangle\bin\Debug\netcoreapp2.1\8PascalTriangle.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\2MultidimensionalArrays\8PascalTriangle\bin\Debug\netcoreapp2.1\8PascalTriangle.pdb
+D:\MyFolder\C#Fundamentals\C#Advanced\2MultidimensionalArrays\8PascalTriangle\obj\Debug\netcoreapp2.1\8PascalTriangle.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\2MultidimensionalArrays\8PascalTriangle\obj\Debug\netcoreapp2.1\8PascalTriangle.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\2MultidimensionalArrays\8PascalTriangle\obj\Debug\netcoreapp2.1\8PascalTriangle.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#Advanced\2MultidimensionalArrays\8PascalTriangle\obj\Debug\netcoreapp2.1\8PascalTriangle.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\2MultidimensionalArrays\8PascalTriangle\obj\Debug\netcoreapp2.1\8PascalTriangle.pdb
+D:\MyFolder\C#Fundamentals\C#Advanced\2MultidimensionalArrays\8PascalTriangle\obj\Debug\netcoreapp2.1\8PascalTriangle.csprojAssemblyReference.cache

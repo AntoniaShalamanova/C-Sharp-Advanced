@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\11ParkingSystem\bin\Debug\netcoreapp2.1\11ParkingSystem.deps.json
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\11ParkingSystem\bin\Debug\netcoreapp2.1\11ParkingSystem.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\11ParkingSystem\bin\Debug\netcoreapp2.1\11ParkingSystem.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\11ParkingSystem\bin\Debug\netcoreapp2.1\11ParkingSystem.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\11ParkingSystem\bin\Debug\netcoreapp2.1\11ParkingSystem.pdb
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\11ParkingSystem\obj\Debug\netcoreapp2.1\11ParkingSystem.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\11ParkingSystem\obj\Debug\netcoreapp2.1\11ParkingSystem.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\11ParkingSystem\obj\Debug\netcoreapp2.1\11ParkingSystem.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\11ParkingSystem\obj\Debug\netcoreapp2.1\11ParkingSystem.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\11ParkingSystem\obj\Debug\netcoreapp2.1\11ParkingSystem.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\11ParkingSystem\obj\Debug\netcoreapp2.1\11ParkingSystem.pdb

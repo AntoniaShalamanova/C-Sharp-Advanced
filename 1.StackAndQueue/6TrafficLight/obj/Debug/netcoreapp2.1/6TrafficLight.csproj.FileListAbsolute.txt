@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#Advanced\1StackAndQueue\6TrafficLight\bin\Debug\netcoreapp2.1\6TrafficLight.deps.json
+D:\MyFolder\C#Fundamentals\C#Advanced\1StackAndQueue\6TrafficLight\bin\Debug\netcoreapp2.1\6TrafficLight.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#Advanced\1StackAndQueue\6TrafficLight\bin\Debug\netcoreapp2.1\6TrafficLight.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#Advanced\1StackAndQueue\6TrafficLight\bin\Debug\netcoreapp2.1\6TrafficLight.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\1StackAndQueue\6TrafficLight\bin\Debug\netcoreapp2.1\6TrafficLight.pdb
+D:\MyFolder\C#Fundamentals\C#Advanced\1StackAndQueue\6TrafficLight\obj\Debug\netcoreapp2.1\6TrafficLight.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\1StackAndQueue\6TrafficLight\obj\Debug\netcoreapp2.1\6TrafficLight.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\1StackAndQueue\6TrafficLight\obj\Debug\netcoreapp2.1\6TrafficLight.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\1StackAndQueue\6TrafficLight\obj\Debug\netcoreapp2.1\6TrafficLight.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#Advanced\1StackAndQueue\6TrafficLight\obj\Debug\netcoreapp2.1\6TrafficLight.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\1StackAndQueue\6TrafficLight\obj\Debug\netcoreapp2.1\6TrafficLight.pdb

@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#Advanced\3SetsAndDictionaries\3ProductShop\bin\Debug\netcoreapp2.1\3ProductShop.deps.json
+D:\MyFolder\C#Fundamentals\C#Advanced\3SetsAndDictionaries\3ProductShop\bin\Debug\netcoreapp2.1\3ProductShop.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#Advanced\3SetsAndDictionaries\3ProductShop\bin\Debug\netcoreapp2.1\3ProductShop.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#Advanced\3SetsAndDictionaries\3ProductShop\bin\Debug\netcoreapp2.1\3ProductShop.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\3SetsAndDictionaries\3ProductShop\bin\Debug\netcoreapp2.1\3ProductShop.pdb
+D:\MyFolder\C#Fundamentals\C#Advanced\3SetsAndDictionaries\3ProductShop\obj\Debug\netcoreapp2.1\3ProductShop.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\3SetsAndDictionaries\3ProductShop\obj\Debug\netcoreapp2.1\3ProductShop.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\3SetsAndDictionaries\3ProductShop\obj\Debug\netcoreapp2.1\3ProductShop.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\3SetsAndDictionaries\3ProductShop\obj\Debug\netcoreapp2.1\3ProductShop.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#Advanced\3SetsAndDictionaries\3ProductShop\obj\Debug\netcoreapp2.1\3ProductShop.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\3SetsAndDictionaries\3ProductShop\obj\Debug\netcoreapp2.1\3ProductShop.pdb

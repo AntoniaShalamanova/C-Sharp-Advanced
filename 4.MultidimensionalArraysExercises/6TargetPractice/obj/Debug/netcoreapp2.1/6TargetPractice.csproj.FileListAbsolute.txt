@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\6TargetPractice\bin\Debug\netcoreapp2.1\6TargetPractice.deps.json
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\6TargetPractice\bin\Debug\netcoreapp2.1\6TargetPractice.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\6TargetPractice\bin\Debug\netcoreapp2.1\6TargetPractice.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\6TargetPractice\bin\Debug\netcoreapp2.1\6TargetPractice.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\6TargetPractice\bin\Debug\netcoreapp2.1\6TargetPractice.pdb
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\6TargetPractice\obj\Debug\netcoreapp2.1\6TargetPractice.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\6TargetPractice\obj\Debug\netcoreapp2.1\6TargetPractice.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\6TargetPractice\obj\Debug\netcoreapp2.1\6TargetPractice.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\6TargetPractice\obj\Debug\netcoreapp2.1\6TargetPractice.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\6TargetPractice\obj\Debug\netcoreapp2.1\6TargetPractice.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\6TargetPractice\obj\Debug\netcoreapp2.1\6TargetPractice.pdb

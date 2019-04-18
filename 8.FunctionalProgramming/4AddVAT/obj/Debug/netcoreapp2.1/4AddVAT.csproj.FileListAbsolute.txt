@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#Advanced\5FunctionalProgramming\4AddVAT\bin\Debug\netcoreapp2.1\4AddVAT.deps.json
+D:\MyFolder\C#Fundamentals\C#Advanced\5FunctionalProgramming\4AddVAT\bin\Debug\netcoreapp2.1\4AddVAT.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#Advanced\5FunctionalProgramming\4AddVAT\bin\Debug\netcoreapp2.1\4AddVAT.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#Advanced\5FunctionalProgramming\4AddVAT\bin\Debug\netcoreapp2.1\4AddVAT.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\5FunctionalProgramming\4AddVAT\bin\Debug\netcoreapp2.1\4AddVAT.pdb
+D:\MyFolder\C#Fundamentals\C#Advanced\5FunctionalProgramming\4AddVAT\obj\Debug\netcoreapp2.1\4AddVAT.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\5FunctionalProgramming\4AddVAT\obj\Debug\netcoreapp2.1\4AddVAT.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\5FunctionalProgramming\4AddVAT\obj\Debug\netcoreapp2.1\4AddVAT.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\5FunctionalProgramming\4AddVAT\obj\Debug\netcoreapp2.1\4AddVAT.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#Advanced\5FunctionalProgramming\4AddVAT\obj\Debug\netcoreapp2.1\4AddVAT.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\5FunctionalProgramming\4AddVAT\obj\Debug\netcoreapp2.1\4AddVAT.pdb

@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#Advanced\SetsAndDictionariesExercises\7TheVLogger\bin\Debug\netcoreapp2.1\7TheVLogger.deps.json
+D:\MyFolder\C#Fundamentals\C#Advanced\SetsAndDictionariesExercises\7TheVLogger\bin\Debug\netcoreapp2.1\7TheVLogger.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#Advanced\SetsAndDictionariesExercises\7TheVLogger\bin\Debug\netcoreapp2.1\7TheVLogger.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#Advanced\SetsAndDictionariesExercises\7TheVLogger\bin\Debug\netcoreapp2.1\7TheVLogger.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\SetsAndDictionariesExercises\7TheVLogger\bin\Debug\netcoreapp2.1\7TheVLogger.pdb
+D:\MyFolder\C#Fundamentals\C#Advanced\SetsAndDictionariesExercises\7TheVLogger\obj\Debug\netcoreapp2.1\7TheVLogger.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\SetsAndDictionariesExercises\7TheVLogger\obj\Debug\netcoreapp2.1\7TheVLogger.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\SetsAndDictionariesExercises\7TheVLogger\obj\Debug\netcoreapp2.1\7TheVLogger.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\SetsAndDictionariesExercises\7TheVLogger\obj\Debug\netcoreapp2.1\7TheVLogger.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#Advanced\SetsAndDictionariesExercises\7TheVLogger\obj\Debug\netcoreapp2.1\7TheVLogger.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\SetsAndDictionariesExercises\7TheVLogger\obj\Debug\netcoreapp2.1\7TheVLogger.pdb

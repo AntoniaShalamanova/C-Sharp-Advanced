@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#Advanced\1StackAndQueue\4MatchingBrackets\bin\Debug\netcoreapp2.1\4MatchingBrackets.deps.json
+D:\MyFolder\C#Fundamentals\C#Advanced\1StackAndQueue\4MatchingBrackets\bin\Debug\netcoreapp2.1\4MatchingBrackets.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#Advanced\1StackAndQueue\4MatchingBrackets\bin\Debug\netcoreapp2.1\4MatchingBrackets.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#Advanced\1StackAndQueue\4MatchingBrackets\bin\Debug\netcoreapp2.1\4MatchingBrackets.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\1StackAndQueue\4MatchingBrackets\bin\Debug\netcoreapp2.1\4MatchingBrackets.pdb
+D:\MyFolder\C#Fundamentals\C#Advanced\1StackAndQueue\4MatchingBrackets\obj\Debug\netcoreapp2.1\4MatchingBrackets.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\1StackAndQueue\4MatchingBrackets\obj\Debug\netcoreapp2.1\4MatchingBrackets.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\1StackAndQueue\4MatchingBrackets\obj\Debug\netcoreapp2.1\4MatchingBrackets.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\1StackAndQueue\4MatchingBrackets\obj\Debug\netcoreapp2.1\4MatchingBrackets.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#Advanced\1StackAndQueue\4MatchingBrackets\obj\Debug\netcoreapp2.1\4MatchingBrackets.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\1StackAndQueue\4MatchingBrackets\obj\Debug\netcoreapp2.1\4MatchingBrackets.pdb

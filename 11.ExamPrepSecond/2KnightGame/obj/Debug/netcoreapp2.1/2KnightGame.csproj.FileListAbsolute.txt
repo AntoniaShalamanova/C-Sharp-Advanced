@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationSecond\2KnightGame\bin\Debug\netcoreapp2.1\2KnightGame.deps.json
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationSecond\2KnightGame\bin\Debug\netcoreapp2.1\2KnightGame.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationSecond\2KnightGame\bin\Debug\netcoreapp2.1\2KnightGame.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationSecond\2KnightGame\bin\Debug\netcoreapp2.1\2KnightGame.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationSecond\2KnightGame\bin\Debug\netcoreapp2.1\2KnightGame.pdb
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationSecond\2KnightGame\obj\Debug\netcoreapp2.1\2KnightGame.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationSecond\2KnightGame\obj\Debug\netcoreapp2.1\2KnightGame.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationSecond\2KnightGame\obj\Debug\netcoreapp2.1\2KnightGame.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationSecond\2KnightGame\obj\Debug\netcoreapp2.1\2KnightGame.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationSecond\2KnightGame\obj\Debug\netcoreapp2.1\2KnightGame.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationSecond\2KnightGame\obj\Debug\netcoreapp2.1\2KnightGame.pdb

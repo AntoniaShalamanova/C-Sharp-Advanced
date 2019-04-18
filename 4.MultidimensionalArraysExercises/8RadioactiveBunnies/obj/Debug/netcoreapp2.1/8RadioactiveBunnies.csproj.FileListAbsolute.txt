@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\8RadioactiveBunnies\bin\Debug\netcoreapp2.1\8RadioactiveBunnies.deps.json
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\8RadioactiveBunnies\bin\Debug\netcoreapp2.1\8RadioactiveBunnies.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\8RadioactiveBunnies\bin\Debug\netcoreapp2.1\8RadioactiveBunnies.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\8RadioactiveBunnies\bin\Debug\netcoreapp2.1\8RadioactiveBunnies.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\8RadioactiveBunnies\bin\Debug\netcoreapp2.1\8RadioactiveBunnies.pdb
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\8RadioactiveBunnies\obj\Debug\netcoreapp2.1\8RadioactiveBunnies.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\8RadioactiveBunnies\obj\Debug\netcoreapp2.1\8RadioactiveBunnies.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\8RadioactiveBunnies\obj\Debug\netcoreapp2.1\8RadioactiveBunnies.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\8RadioactiveBunnies\obj\Debug\netcoreapp2.1\8RadioactiveBunnies.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\8RadioactiveBunnies\obj\Debug\netcoreapp2.1\8RadioactiveBunnies.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\8RadioactiveBunnies\obj\Debug\netcoreapp2.1\8RadioactiveBunnies.pdb

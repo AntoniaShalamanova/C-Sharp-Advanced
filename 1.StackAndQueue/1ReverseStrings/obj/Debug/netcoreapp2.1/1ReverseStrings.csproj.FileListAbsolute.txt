@@ -1,0 +1,10 @@
+D:\MyFolder\C#Fundamentals\C#Advanced\1StackAndQueue\1ReverseStrings\bin\Debug\netcoreapp2.1\1ReverseStrings.deps.json
+D:\MyFolder\C#Fundamentals\C#Advanced\1StackAndQueue\1ReverseStrings\bin\Debug\netcoreapp2.1\1ReverseStrings.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#Advanced\1StackAndQueue\1ReverseStrings\bin\Debug\netcoreapp2.1\1ReverseStrings.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#Advanced\1StackAndQueue\1ReverseStrings\bin\Debug\netcoreapp2.1\1ReverseStrings.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\1StackAndQueue\1ReverseStrings\bin\Debug\netcoreapp2.1\1ReverseStrings.pdb
+D:\MyFolder\C#Fundamentals\C#Advanced\1StackAndQueue\1ReverseStrings\obj\Debug\netcoreapp2.1\1ReverseStrings.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\1StackAndQueue\1ReverseStrings\obj\Debug\netcoreapp2.1\1ReverseStrings.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\1StackAndQueue\1ReverseStrings\obj\Debug\netcoreapp2.1\1ReverseStrings.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#Advanced\1StackAndQueue\1ReverseStrings\obj\Debug\netcoreapp2.1\1ReverseStrings.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\1StackAndQueue\1ReverseStrings\obj\Debug\netcoreapp2.1\1ReverseStrings.pdb

@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#Advanced\Exam31May2015\4OlympicsAreComing\bin\Debug\netcoreapp2.1\4OlympicsAreComing.deps.json
+D:\MyFolder\C#Fundamentals\C#Advanced\Exam31May2015\4OlympicsAreComing\bin\Debug\netcoreapp2.1\4OlympicsAreComing.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#Advanced\Exam31May2015\4OlympicsAreComing\bin\Debug\netcoreapp2.1\4OlympicsAreComing.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#Advanced\Exam31May2015\4OlympicsAreComing\bin\Debug\netcoreapp2.1\4OlympicsAreComing.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\Exam31May2015\4OlympicsAreComing\bin\Debug\netcoreapp2.1\4OlympicsAreComing.pdb
+D:\MyFolder\C#Fundamentals\C#Advanced\Exam31May2015\4OlympicsAreComing\obj\Debug\netcoreapp2.1\4OlympicsAreComing.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\Exam31May2015\4OlympicsAreComing\obj\Debug\netcoreapp2.1\4OlympicsAreComing.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\Exam31May2015\4OlympicsAreComing\obj\Debug\netcoreapp2.1\4OlympicsAreComing.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\Exam31May2015\4OlympicsAreComing\obj\Debug\netcoreapp2.1\4OlympicsAreComing.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#Advanced\Exam31May2015\4OlympicsAreComing\obj\Debug\netcoreapp2.1\4OlympicsAreComing.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\Exam31May2015\4OlympicsAreComing\obj\Debug\netcoreapp2.1\4OlympicsAreComing.pdb

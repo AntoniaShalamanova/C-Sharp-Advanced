@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#Advanced\1StackAndQueue\3DecimalToBinaryConverter\bin\Debug\netcoreapp2.1\3DecimalToBinaryConverter.deps.json
+D:\MyFolder\C#Fundamentals\C#Advanced\1StackAndQueue\3DecimalToBinaryConverter\bin\Debug\netcoreapp2.1\3DecimalToBinaryConverter.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#Advanced\1StackAndQueue\3DecimalToBinaryConverter\bin\Debug\netcoreapp2.1\3DecimalToBinaryConverter.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#Advanced\1StackAndQueue\3DecimalToBinaryConverter\bin\Debug\netcoreapp2.1\3DecimalToBinaryConverter.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\1StackAndQueue\3DecimalToBinaryConverter\bin\Debug\netcoreapp2.1\3DecimalToBinaryConverter.pdb
+D:\MyFolder\C#Fundamentals\C#Advanced\1StackAndQueue\3DecimalToBinaryConverter\obj\Debug\netcoreapp2.1\3DecimalToBinaryConverter.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\1StackAndQueue\3DecimalToBinaryConverter\obj\Debug\netcoreapp2.1\3DecimalToBinaryConverter.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\1StackAndQueue\3DecimalToBinaryConverter\obj\Debug\netcoreapp2.1\3DecimalToBinaryConverter.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\1StackAndQueue\3DecimalToBinaryConverter\obj\Debug\netcoreapp2.1\3DecimalToBinaryConverter.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#Advanced\1StackAndQueue\3DecimalToBinaryConverter\obj\Debug\netcoreapp2.1\3DecimalToBinaryConverter.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\1StackAndQueue\3DecimalToBinaryConverter\obj\Debug\netcoreapp2.1\3DecimalToBinaryConverter.pdb

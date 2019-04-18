@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationFirst\2Sneaking\bin\Debug\netcoreapp2.1\2Sneaking.deps.json
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationFirst\2Sneaking\bin\Debug\netcoreapp2.1\2Sneaking.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationFirst\2Sneaking\bin\Debug\netcoreapp2.1\2Sneaking.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationFirst\2Sneaking\bin\Debug\netcoreapp2.1\2Sneaking.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationFirst\2Sneaking\bin\Debug\netcoreapp2.1\2Sneaking.pdb
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationFirst\2Sneaking\obj\Debug\netcoreapp2.1\2Sneaking.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationFirst\2Sneaking\obj\Debug\netcoreapp2.1\2Sneaking.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationFirst\2Sneaking\obj\Debug\netcoreapp2.1\2Sneaking.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationFirst\2Sneaking\obj\Debug\netcoreapp2.1\2Sneaking.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationFirst\2Sneaking\obj\Debug\netcoreapp2.1\2Sneaking.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationFirst\2Sneaking\obj\Debug\netcoreapp2.1\2Sneaking.pdb

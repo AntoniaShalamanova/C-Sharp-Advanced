@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#Advanced\3SetsAndDictionaries\2AverageStudentGrades\bin\Debug\netcoreapp2.1\2AverageStudentGrades.deps.json
+D:\MyFolder\C#Fundamentals\C#Advanced\3SetsAndDictionaries\2AverageStudentGrades\bin\Debug\netcoreapp2.1\2AverageStudentGrades.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#Advanced\3SetsAndDictionaries\2AverageStudentGrades\bin\Debug\netcoreapp2.1\2AverageStudentGrades.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#Advanced\3SetsAndDictionaries\2AverageStudentGrades\bin\Debug\netcoreapp2.1\2AverageStudentGrades.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\3SetsAndDictionaries\2AverageStudentGrades\bin\Debug\netcoreapp2.1\2AverageStudentGrades.pdb
+D:\MyFolder\C#Fundamentals\C#Advanced\3SetsAndDictionaries\2AverageStudentGrades\obj\Debug\netcoreapp2.1\2AverageStudentGrades.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\3SetsAndDictionaries\2AverageStudentGrades\obj\Debug\netcoreapp2.1\2AverageStudentGrades.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\3SetsAndDictionaries\2AverageStudentGrades\obj\Debug\netcoreapp2.1\2AverageStudentGrades.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\3SetsAndDictionaries\2AverageStudentGrades\obj\Debug\netcoreapp2.1\2AverageStudentGrades.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#Advanced\3SetsAndDictionaries\2AverageStudentGrades\obj\Debug\netcoreapp2.1\2AverageStudentGrades.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\3SetsAndDictionaries\2AverageStudentGrades\obj\Debug\netcoreapp2.1\2AverageStudentGrades.pdb

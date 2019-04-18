@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\9Crossfire\bin\Debug\netcoreapp2.1\9Crossfire.deps.json
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\9Crossfire\bin\Debug\netcoreapp2.1\9Crossfire.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\9Crossfire\bin\Debug\netcoreapp2.1\9Crossfire.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\9Crossfire\bin\Debug\netcoreapp2.1\9Crossfire.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\9Crossfire\bin\Debug\netcoreapp2.1\9Crossfire.pdb
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\9Crossfire\obj\Debug\netcoreapp2.1\9Crossfire.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\9Crossfire\obj\Debug\netcoreapp2.1\9Crossfire.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\9Crossfire\obj\Debug\netcoreapp2.1\9Crossfire.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\9Crossfire\obj\Debug\netcoreapp2.1\9Crossfire.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\9Crossfire\obj\Debug\netcoreapp2.1\9Crossfire.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\MultidimensionalArraysExercises\9Crossfire\obj\Debug\netcoreapp2.1\9Crossfire.pdb

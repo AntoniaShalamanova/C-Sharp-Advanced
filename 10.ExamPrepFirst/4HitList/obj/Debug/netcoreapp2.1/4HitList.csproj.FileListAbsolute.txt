@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationFirst\4HitList\bin\Debug\netcoreapp2.1\4HitList.deps.json
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationFirst\4HitList\bin\Debug\netcoreapp2.1\4HitList.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationFirst\4HitList\bin\Debug\netcoreapp2.1\4HitList.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationFirst\4HitList\bin\Debug\netcoreapp2.1\4HitList.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationFirst\4HitList\bin\Debug\netcoreapp2.1\4HitList.pdb
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationFirst\4HitList\obj\Debug\netcoreapp2.1\4HitList.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationFirst\4HitList\obj\Debug\netcoreapp2.1\4HitList.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationFirst\4HitList\obj\Debug\netcoreapp2.1\4HitList.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationFirst\4HitList\obj\Debug\netcoreapp2.1\4HitList.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationFirst\4HitList\obj\Debug\netcoreapp2.1\4HitList.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\ExamPreparationFirst\4HitList\obj\Debug\netcoreapp2.1\4HitList.pdb

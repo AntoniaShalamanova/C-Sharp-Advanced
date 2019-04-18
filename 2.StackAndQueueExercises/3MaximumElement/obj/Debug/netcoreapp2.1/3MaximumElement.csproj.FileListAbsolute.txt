@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#Advanced\StackAndQueueExercises\3MaximumElement\bin\Debug\netcoreapp2.1\3MaximumElement.deps.json
+D:\MyFolder\C#Fundamentals\C#Advanced\StackAndQueueExercises\3MaximumElement\bin\Debug\netcoreapp2.1\3MaximumElement.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#Advanced\StackAndQueueExercises\3MaximumElement\bin\Debug\netcoreapp2.1\3MaximumElement.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#Advanced\StackAndQueueExercises\3MaximumElement\bin\Debug\netcoreapp2.1\3MaximumElement.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\StackAndQueueExercises\3MaximumElement\bin\Debug\netcoreapp2.1\3MaximumElement.pdb
+D:\MyFolder\C#Fundamentals\C#Advanced\StackAndQueueExercises\3MaximumElement\obj\Debug\netcoreapp2.1\3MaximumElement.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\StackAndQueueExercises\3MaximumElement\obj\Debug\netcoreapp2.1\3MaximumElement.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\StackAndQueueExercises\3MaximumElement\obj\Debug\netcoreapp2.1\3MaximumElement.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\StackAndQueueExercises\3MaximumElement\obj\Debug\netcoreapp2.1\3MaximumElement.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#Advanced\StackAndQueueExercises\3MaximumElement\obj\Debug\netcoreapp2.1\3MaximumElement.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\StackAndQueueExercises\3MaximumElement\obj\Debug\netcoreapp2.1\3MaximumElement.pdb

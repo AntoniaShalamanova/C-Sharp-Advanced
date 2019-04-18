@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#Advanced\2MultidimensionalArrays\1SumMatrixElements\bin\Debug\netcoreapp2.1\1SumMatrixElements.deps.json
+D:\MyFolder\C#Fundamentals\C#Advanced\2MultidimensionalArrays\1SumMatrixElements\bin\Debug\netcoreapp2.1\1SumMatrixElements.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#Advanced\2MultidimensionalArrays\1SumMatrixElements\bin\Debug\netcoreapp2.1\1SumMatrixElements.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#Advanced\2MultidimensionalArrays\1SumMatrixElements\bin\Debug\netcoreapp2.1\1SumMatrixElements.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\2MultidimensionalArrays\1SumMatrixElements\bin\Debug\netcoreapp2.1\1SumMatrixElements.pdb
+D:\MyFolder\C#Fundamentals\C#Advanced\2MultidimensionalArrays\1SumMatrixElements\obj\Debug\netcoreapp2.1\1SumMatrixElements.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\2MultidimensionalArrays\1SumMatrixElements\obj\Debug\netcoreapp2.1\1SumMatrixElements.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\2MultidimensionalArrays\1SumMatrixElements\obj\Debug\netcoreapp2.1\1SumMatrixElements.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#Advanced\2MultidimensionalArrays\1SumMatrixElements\obj\Debug\netcoreapp2.1\1SumMatrixElements.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#Advanced\2MultidimensionalArrays\1SumMatrixElements\obj\Debug\netcoreapp2.1\1SumMatrixElements.dll
+D:\MyFolder\C#Fundamentals\C#Advanced\2MultidimensionalArrays\1SumMatrixElements\obj\Debug\netcoreapp2.1\1SumMatrixElements.pdb
